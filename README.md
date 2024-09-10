@@ -38,15 +38,15 @@ Berikut adalah;
 
 5. Ubahlah ijin akses file dataku pada sub direktori pebruari sehingga user dapat melakukan baik write, read maupun         execute, tetapi group dan others hanya bisa read dan execute.
 
-  ![tugas nomor 5](https://github.com/user-attachments/assets/e316762d-6afc-4a26-9616-d965a1d385ec)
+    ![tugas nomor 5](https://github.com/user-attachments/assets/e316762d-6afc-4a26-9616-d965a1d385ec)
 
 6. Ubahlah ijin akses file dataku pada sub direktori maret sehingga semua dapat melakukan write, read dan execute.
 
-  ![Screenshot from 2024-09-10 23-03-45](https://github.com/user-attachments/assets/8623a8df-5d02-4dc5-b389-f902af606353)
+    ![Screenshot from 2024-09-10 23-03-45](https://github.com/user-attachments/assets/8623a8df-5d02-4dc5-b389-f902af606353)
 
 7. Hapuslah direktori maret.
 
-  ![Screenshot from 2024-09-10 23-05-20](https://github.com/user-attachments/assets/24ad5fcf-7b4f-46fc-a617-56432b3eb073)
+    ![Screenshot from 2024-09-10 23-05-20](https://github.com/user-attachments/assets/24ad5fcf-7b4f-46fc-a617-56432b3eb073)
 
 8. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan cobalah untuk         membuat direktori baru haha pada sub direktori februari.
 
