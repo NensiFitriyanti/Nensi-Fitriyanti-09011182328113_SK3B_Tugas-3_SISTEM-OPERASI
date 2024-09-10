@@ -44,11 +44,11 @@ Berikut adalah;
 
 6. Ubahlah ijin akses file dataku pada sub direktori maret sehingga semua dapat melakukan write, read dan execute.
 
-    ![Screenshot from 2024-09-10 23-03-45](https://github.com/user-attachments/assets/8623a8df-5d02-4dc5-b389-f902af606353)
+   ![Screenshot from 2024-09-11 00-13-06](https://github.com/user-attachments/assets/10a15bb8-2c0a-4c81-b89a-ebe6df7dfbd8)
 
 7. Hapuslah direktori maret.
 
-    ![Screenshot from 2024-09-10 23-05-20](https://github.com/user-attachments/assets/24ad5fcf-7b4f-46fc-a617-56432b3eb073)
+   ![Screenshot from 2024-09-11 00-17-50](https://github.com/user-attachments/assets/20dccb30-6221-437a-9c65-d147801af6a6)
 
 8. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan cobalah untuk         membuat direktori baru haha pada sub direktori februari.
 
