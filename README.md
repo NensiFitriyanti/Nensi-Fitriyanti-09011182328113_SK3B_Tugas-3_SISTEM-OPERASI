@@ -16,7 +16,7 @@ Kelas: SK3B
 
 <div align="justify">
   
-Berikut adalah;
+Berikut adalah implementasi dari soal;
 
 1. Lihat peralatan I/O, character divace, yang ada pada system komputer.
 
