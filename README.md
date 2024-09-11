@@ -52,8 +52,14 @@ Berikut adalah;
 
 8. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan cobalah untuk         membuat direktori baru haha pada sub direktori februari.
 
+    ![Screenshot from 2024-09-11 00-23-13](https://github.com/user-attachments/assets/85f67490-4551-478f-b021-2acba9a0e96b)
+
 9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan nilai default-nya?
 
-10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah. list perhatikan berapa        link yang terjadi?
+    ![Screenshot from 2024-09-11 07-52-43](https://github.com/user-attachments/assets/3fd1589f-cb46-45c6-9613-e7aa489b79bf)
+
+10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah. list perhatikan berapa link yang terjadi?
+
+    ![tuugas nonor 10](https://github.com/user-attachments/assets/58d3078c-3538-43be-929e-d2f41cd64a31)
 
 </dir>
